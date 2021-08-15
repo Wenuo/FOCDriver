@@ -9,7 +9,7 @@
 
 通过`AS5047P`、`TLE5012B`获取无刷电机转子位置，为了能更好地获取转子位置信息，我做了`2312S`无刷电机的结构体，用于装配`AS5047P`、`TLE5012B`的PCBA。形态如下：
 
-![0002](https://github.com/Wenuo/FOCDriver/blob/master/3D%20design/0002.jpg)
+![0002](https://github.com/Wenuo/FOCDriver/blob/master/3D%20design/0002.png)
 
 使用M3螺丝进行紧固。效果如下图
 
