@@ -1,5 +1,5 @@
 # FOCDriver
-![Foc driver](https://github.com/Wenuo/FOCDriver/Foc driver.jpg)
+![Foc driver](https://github.com/Wenuo/FOCDriver/blob/master/Foc%20driver.jpg)
 
 `FOCDriver`是一款基于`STM32F405`的无刷矢量控制驱动器系统。其硬件是来源于`ODRIVE`，我在其基础上增加了`OLED`显示屏，用来显示无刷电机的矢量状态，包括但不局限无刷电机的位置、速度信息、电源电压以及设备的温度。
 
