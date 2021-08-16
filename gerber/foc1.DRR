@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: foc1.PcbDoc   2021/8/16  23:15:02
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : foc1-RoundHoles.TXT
+ASCII SlotHoles File : foc1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             58        PTH        8.00inch (203.21mm)
+T2      12mil (0.305mm)                                           Round             368       PTH        29.75inch (755.64mm)
+T3      28mil (0.7mm)                                             Slot              4         PTH        1.49inch (37.76mm)
+T4      39mil (1mm)                                               Round             4         PTH        1.69inch (43.00mm)
+T5      67mil (1.7mm)                                             Round             6         PTH        1.73inch (44.00mm)
+T6      71mil (1.8mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T7      102mil (2.6mm)                                            Round             4         PTH        8.52inch (216.46mm)
+T8      28mil (0.7mm)                                             Round             2         NPTH       0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              448
+
+Total Processing Time (hh:mm:ss) : 00:00:00

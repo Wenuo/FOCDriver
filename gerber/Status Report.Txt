@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[foc1-RoundHoles.TXT]
+   Generated File[foc1-SlotHoles.TXT]
+   Generated File[foc1.LDP]
+   Generated File[foc1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:15:02 On 2021/8/16
